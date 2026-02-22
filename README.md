@@ -4,7 +4,6 @@
 It combines both basic and advanced mathematical functions with a clean, user-friendly interface. Perfect for students, professionals, and anyone who loves math!  
 
 ---
-
 ## ✨ Features
 
 - Basic operations: `+`, `−`, `×`, `÷`  
@@ -14,5 +13,3 @@ It combines both basic and advanced mathematical functions with a clean, user-fr
 - Pi constant `π`  
 - Parentheses support `( )`  
 - Clean desktop GUI with fast performance  
-
----
